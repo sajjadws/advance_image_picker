@@ -1,8 +1,8 @@
 name: advanceimagepicker
 description: an advance image picker with cropper
-version: 0.0.1
-author:
-homepage:
+version: 0.0.2
+author: sajjad arvin
+homepage: https://github.com/sajjadws/advance_image_picker
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -39,3 +39,6 @@ flutter:
     - family: IranSans
       fonts:
         - asset: assets/fonts/IRANSans.ttf
+    - family: Ace Records
+      fonts:
+        - asset: assets/fonts/Ace Records.ttf
